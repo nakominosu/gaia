@@ -238,7 +238,7 @@ require (
 	github.com/timonwong/logrlint v0.1.0 // indirect
 	github.com/tomarrell/wrapcheck/v2 v2.6.2 // indirect
 	github.com/tommy-muehle/go-mnd/v2 v2.5.0 // indirect
-	github.com/ulikunitz/xz v0.5.8 // indirect
+	github.com/ulikunitz/xz v0.5.14 // indirect
 	github.com/ultraware/funlen v0.0.3 // indirect
 	github.com/ultraware/whitespace v0.0.5 // indirect
 	github.com/uudashr/gocognit v1.0.6 // indirect
